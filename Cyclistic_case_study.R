@@ -114,7 +114,7 @@ aggregate(all_trips_v2$ride_length ~ all_trips_v2$member_casual + all_trips_v2$d
           FUN = mean)
 
 View(all_trips_v2)
-
+# Making a copy of the cleaned data to import into Tableau
 write.csv(all_trips_v2, "cleaned_data.csv", row.names = FALSE)
 
 

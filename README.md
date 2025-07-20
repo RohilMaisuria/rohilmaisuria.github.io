@@ -11,11 +11,6 @@ This repository hosts my online portfolio, showcasing projects that demonstrate 
 
 ---
 
-## 📄 CV
-📎 [Download my CV (PDF)](https://rohilmaisuria.github.io/Rohil_Maisuria_CV.pdf)
-
----
-
 ## 📊 Featured Project: Cyclistic Case Study
 As part of the Google Data Analytics Certificate, I conducted a case study analysing rider behaviour for a fictional bike-share company.
 
